@@ -3,7 +3,7 @@
  ### Analyzing road accident data in Excel can help you identify trends, hotspots, and potential areas for safety improvements. Here’s a detailed step-by-step guide to analyze such data:
 
 
-### Data Import and Preparation
+### 1. Data Import and Preparation
 
 ---
 1. Import Data: Load your road accident data into Excel. You can do this by opening the CSV file directly in Excel or using the Data tab to import from various sources.
@@ -19,8 +19,21 @@
     * Weather conditions
     * Severity of injuries
 
+---
+
+### 2. Basic Analysis
+
+1. Summary Statistics: Use Descriptive Statistics from the Data Analysis Toolpak to get an overview of your data (mean, median, mode, standard deviation, etc.).
+
+2. Pivot Tables: Create pivot tables to summarize your data. For example, you can group accidents by month, day of the week, or hour of the day to identify trends.
+
+3. Count and Frequency Analysis: Count the number of accidents by type, location, or weather condition to identify the most common factors involved in accidents.
 
 ---
+
+### 3. Visualization
+
+
 ## Videos
 All video of this series are arranged in playlist and can be found here.
 
