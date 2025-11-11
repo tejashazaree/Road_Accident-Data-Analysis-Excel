@@ -8,8 +8,10 @@ print("This is a code")
 
 
 ### 1. Data Import and Preparation
-	1. Import Data: Load your road accident data into Excel. You can do this by opening the CSV file directly in Excel or using the Data tab to import from various sources.
-	2. Data Cleaning: Ensure your data is clean. This involves checking for and handling any missing values, duplicates, and incorrect entries. Use Filter, Conditional Formatting, and Data Validation tools for this.
+	1. Import Data: Load your road accident data into Excel. You can do this by opening the CSV file directly 
+	in Excel or using the Data tab to import from various sources.
+	2. Data Cleaning: Ensure your data is clean. This involves checking for and handling any missing values, 
+	duplicates, and incorrect entries. Use Filter, Conditional Formatting, and Data Validation tools for this.
 	3. Data Structuring: Structure your data into meaningful columns, such as:
 		○ Date and time of the accident
 		○ Location (latitude and longitude or street names)
@@ -18,10 +20,10 @@ print("This is a code")
 		○ Weather conditions
 		○ Severity of injuries
 ### 2. Basic Analysis
-	1. Summary Statistics: Use Descriptive Statistics from the Data Analysis Toolpak to get an overview of your 
-	data (mean, median, mode, standard deviation, etc.).
-	2. Pivot Tables: Create pivot tables to summarize your data. For example, you can group accidents by month, 
-	day of the week, or hour of the day to identify trends.
+	1. Summary Statistics: Use Descriptive Statistics from the Data Analysis Toolpak to get an overview 
+	of your data (mean, median, mode, standard deviation, etc.).
+	2. Pivot Tables: Create pivot tables to summarize your data. For example, you can group accidents 
+	by month, day of the week, or hour of the day to identify trends.
 	3. Count and Frequency Analysis: Count the number of accidents by
 	 type, location, or weather condition to identify the most common factors involved in accidents.
 ### 3. Visualization
