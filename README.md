@@ -18,9 +18,14 @@ print("This is a code")
 		○ Weather conditions
 		○ Severity of injuries
 ### 2. Basic Analysis
-	1. Summary Statistics: Use Descriptive Statistics from the Data Analysis Toolpak to get an overview of your data (mean, median, mode, standard deviation, etc.).
-	2. Pivot Tables: Create pivot tables to summarize your data. For example, you can group accidents by month, day of the week, or hour of the day to identify trends.
-	3. Count and Frequency Analysis: Count the number of accidents by type, location, or weather condition to identify the most common factors involved in accidents.
+	1. Summary Statistics: Use Descriptive Statistics from the Data 
+	Analysis Toolpak to get an overview of your data (mean, median, mode,
+	 standard deviation, etc.).
+	2. Pivot Tables: Create pivot tables to summarize your data. For
+	 example, you can group accidents by month, day of the week, or hour
+	  of the day to identify trends.
+	3. Count and Frequency Analysis: Count the number of accidents by
+	 type, location, or weather condition to identify the most common factors involved in accidents.
 ### 3. Visualization
 	1. Bar Charts and Histograms: Use bar charts to compare the number of accidents by category (e.g., type of accident or weather condition). Histograms are useful for visualizing the distribution of numeric data (e.g., number of accidents per hour).
 	2. Line Graphs: Plot line graphs to show trends over time, such as the number of accidents per month.

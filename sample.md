@@ -26,10 +26,13 @@ printf("Hello")
 ---
 
 --- for a line
-- or * (dash/star) ordered list
----
+
 
 ## [Google link](https://www.google.com/)
 ---
 
 ![Flower lonk](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/flower.PNG)
+
+---
+
+
