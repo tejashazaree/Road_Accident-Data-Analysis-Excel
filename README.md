@@ -3,7 +3,7 @@
  ### Analyzing road accident data in Excel can help you identify trends, hotspots, and potential areas for safety improvements. Here’s a detailed step-by-step guide to analyze such data:
 
 
-### 1. Data Import and Preparation
+## 1. Data Import and Preparation
 
 ---
 1. Import Data: Load your road accident data into Excel. You can do this by opening the CSV file directly in Excel or using the Data tab to import from various sources.
@@ -18,7 +18,7 @@
 
 ---
 
-### 2. Basic Analysis
+## 2. Basic Analysis
 
 1. Summary Statistics: Use Descriptive Statistics from the Data Analysis Toolpak to get an overview of your data (mean, median, mode, standard deviation, etc.).
 2. Pivot Tables: Create pivot tables to summarize your data. For example, you can group accidents by month, day of the week, or hour of the day to identify trends.
@@ -26,7 +26,7 @@
 
 ---
 
-### 3. Visualization
+## 3. Visualization
 
 1. Bar Charts and Histograms: Use bar charts to compare the number of accidents by category (e.g., type of accident or weather condition). Histograms are useful for visualizing the distribution of numeric data (e.g., number of accidents per hour).
 2. Line Graphs: Plot line graphs to show trends over time, such as the number of accidents per month.
@@ -34,7 +34,7 @@
 
 ---
 
-### 4. Advanced Analysis
+## 4. Advanced Analysis
 
 1. Correlation Analysis: Use correlation functions (CORREL) to find relationships between different variables (e.g., weather conditions and accident severity).
 2. Regression Analysis: Perform regression analysis to predict the number of accidents based on different factors. You can use the Regression tool from the Data Analysis Toolpak.
@@ -42,7 +42,7 @@
 
 ---
 
-### 5. Reporting and Insights
+## 5. Reporting and Insights
 
 1. Dashboard Creation: Build an interactive dashboard to display your key findings. Use Slicers and Interactive Charts to make it user-friendly.
 2. Summary Report: Create a summary report highlighting the key insights from your analysis. This can include textual descriptions, charts, and tables.
@@ -52,7 +52,13 @@
 
 * Analyzing road accident data can provide valuable insights into the factors contributing to accidents and help in making data-driven decisions to improve road safety. If you have specific data or need help with a particular analysis, feel free to share more details! *
 
+---
 
+### Note: .csv or .xlsx - Excel format has advantage over csv format in that it supports table stricture of excel sheets. Mostly data is exported/received in csv format as this being a universal format. 
+---
+
+#### Add two columns 'Month' and 'Year' for which we will extract values from the 'Accident date' column using =TEXT([@[Accident Date]],"mmm") and =TEXT([@[Accident Date]],"yyyy") formula convert the two column to 'values' only.
+[02_ColumnsAdded.PNG]
 
 ## Videos
 All video of this series are arranged in playlist and can be found here.
