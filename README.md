@@ -63,6 +63,10 @@
 #### Import the excel table into a new excel file>Get Data>From file>From excel workbook
 ![03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/03_ImportData.PNG)
 
+#### In the Import Data dialogue check 'Only Create Connection' as data file is separate from the Dashboard file.
+
+![03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/04_connOnly.PNG)
+
 ---
 
 Add three worksheets for Analysis
@@ -71,7 +75,4 @@ Add three worksheets for Analysis
 3. KPI - Key parameters
 
 ---
-1. Road Type - for road cndition analysis
-	We need to create few pivot tables and charts analysing road condition at the time of accident
-	a. Number of casualties by road type
-	b. 
+
