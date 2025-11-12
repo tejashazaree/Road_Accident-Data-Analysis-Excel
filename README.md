@@ -18,7 +18,7 @@
 
 ---
 
-## 2. Basic Analysis
+##  Basic Analysis
 
 1. Summary Statistics: Use Descriptive Statistics from the Data Analysis Toolpak to get an overview of your data (mean, median, mode, standard deviation, etc.).
 2. Pivot Tables: Create pivot tables to summarize your data. For example, you can group accidents by month, day of the week, or hour of the day to identify trends.
@@ -62,3 +62,16 @@
 
 #### Import the excel table into a new excel file>Get Data>From file>From excel workbook
 ![03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/03_ImportData.PNG)
+
+---
+
+Add three worksheets for Analysis
+1. Road Type - for road cndition analysis
+2. Monthly Trend - Monthly accident trends
+3. KPI - Key parameters
+
+---
+1. Road Type - for road cndition analysis
+	We need to create few pivot tables and charts analysing road condition at the time of accident
+	a. Number of casualties by road type
+	b. 
