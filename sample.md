@@ -7,7 +7,9 @@
 
 (one for biggest six for smallest)
 ---
-** Bold **
+**Bold**
+
+Bold
 
 _Italics_
 ---
@@ -27,6 +29,12 @@ printf("Hello")
 
 --- for a line
 
+<font color="red">This text is red!</font>
+
+<p style="color:green"> Green </p>
+
+<font color="gree    "> 5. Reporting and Insights </Font>
+
 
 ## [Google link](https://www.google.com/)
 ---
@@ -36,3 +44,7 @@ printf("Hello")
 ---
 
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
