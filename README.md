@@ -59,3 +59,6 @@
 
 #### Add two columns 'Month' and 'Year' for which we will extract values from the 'Accident date' column using =TEXT([@[Accident Date]],"mmm") and =TEXT([@[Accident Date]],"yyyy") formula convert the two column to 'values' only.
 ![02_ColumnsAdded.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/02_ColumnsAdded.PNG)
+
+#### Import the excel table into a new excel file>Get Data>From file>From excel workbook
+! [03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/03_ImportData.PNG)
