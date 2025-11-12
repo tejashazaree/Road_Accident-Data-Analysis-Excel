@@ -76,3 +76,6 @@ Add three worksheets for Analysis
 
 ---
 
+### The Dashboard
+
+![03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/05_Dashboard.PNG)
