@@ -34,7 +34,7 @@
 
 ---
 
-## 4. Advanced Analysis
+## <p style="color:green">4. Advanced Analysis</p>
 
 1. Correlation Analysis: Use correlation functions (CORREL) to find relationships between different variables (e.g., weather conditions and accident severity).
 2. Regression Analysis: Perform regression analysis to predict the number of accidents based on different factors. You can use the Regression tool from the Data Analysis Toolpak.
@@ -42,7 +42,7 @@
 
 ---
 
-## 5. Reporting and Insights
+## <font color="gree    "> 5. Reporting and Insights </Font>
 
 1. Dashboard Creation: Build an interactive dashboard to display your key findings. Use Slicers and Interactive Charts to make it user-friendly.
 2. Summary Report: Create a summary report highlighting the key insights from your analysis. This can include textual descriptions, charts, and tables.
@@ -54,39 +54,8 @@
 
 ---
 
-### Note: .csv or .xlsx - Excel format has advantage over csv format in that it supports table stricture of excel sheets. Mostly data is exported/received in csv format as this being a universal format. 
+#### Note: .csv or .xlsx - Excel format has advantage over csv format in that it supports table stricture of excel sheets. Mostly data is exported/received in csv format as this being a universal format. 
 ---
 
 #### Add two columns 'Month' and 'Year' for which we will extract values from the 'Accident date' column using =TEXT([@[Accident Date]],"mmm") and =TEXT([@[Accident Date]],"yyyy") formula convert the two column to 'values' only.
 [02_ColumnsAdded.PNG]
-
-## Videos
-All video of this series are arranged in playlist and can be found here.
-
-[React Native Videos](https://www.youtube.com/watch?v=kGtEax1WQFg&list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
-
-All future videos will be added to the playlist.
-
----
-## Community
-We are trying to build a community so that your questions and issues can be answered by other learners and you can build a community of mobile app developers. For this we are using Discord. You can join Discord server here.
-
-[Join Discord](https://hc.lco.dev/discord)
-
----
-## How to contribute
-
-Contribution is simple in this project. There are 2 major ways to contribute:
-1. By joining Discord and help others to solve their bugs or share your projects.
-2. By writing articles of your learning on [Hashnode](https://hashnode.com). With each video, I will assign some task to study or code and you can share them via articles. You can share these articles in respective contribution files such as Project-one-contribution.md etc. Please don't send any Pull Request to change Readme file or code files till we finish this series.
-
-We constantly check all articles shared to us and feature them. Please DO NOT SEND PR to feature you on readme. Thanks.
-
----
-## Must read from Hashnode
-
-1. [Installation Guide for React Native (Linux)](https://josephjosedev.hashnode.dev/installation-guide-for-react-native-linux)
-
-2. [React Native: Prerequisites & Installation](https://mohitharge.hashnode.dev/react-native-prerequisites-installation)
-
-3. [Understanding Main-axis and Cross-axis in React-Native](https://sharetogrow.hashnode.dev/introduction-to-stylesheet-and-understanding-main-axis-and-cross-axis-in-react-native)
