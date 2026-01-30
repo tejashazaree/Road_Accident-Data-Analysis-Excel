@@ -69,7 +69,6 @@
 * Add columns 'Year' with formula =TEXT([@[Accident Date]],"yyyy"). convert to values only.
 
 </p>
-![02_ColumnsAdded.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/02_ColumnsAdded.PNG)
 
 > with the Cleaning and Processing our data is ready for Analysis.
 
@@ -81,12 +80,9 @@ Add three worksheets for Analysis
 3. KPI - Key parameters
 
 
-
+![02_ColumnsAdded.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/02_ColumnsAdded.PNG)
 
 > #### Import the excel table into a new excel file>Get Data>From file>From excel workbook
-
-
-
 ![03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/03_ImportData.PNG)
 
 #### In the Import Data dialogue check 'Only Create Connection' as data file is separate from the Dashboard file.
