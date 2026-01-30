@@ -75,7 +75,7 @@
 ![02_ColumnsAdded.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/02_ColumnsAdded.PNG)
 
 
-> with the Cleaning and Processing our data is ready for Analysis.
+> with the Cleaning and Processing part done our data is ready for Analysis.
 
 ### Data Analysis and Visualization
 
@@ -85,7 +85,7 @@ Add three worksheets for Analysis
 3. KPI - Key parameters
 
 
-> #### Import the excel table into a new excel file>Get Data>From file>From excel workbook
+#### Import the excel table into a new excel file>Get Data>From file>From excel workbook
 ![03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/03_ImportData.PNG)
 
 #### In the Import Data dialogue check 'Only Create Connection' as data file is separate from the Dashboard file.
