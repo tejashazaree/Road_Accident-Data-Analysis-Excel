@@ -85,6 +85,8 @@ Add three worksheets for Analysis
 
 > #### Import the excel table into a new excel file>Get Data>From file>From excel workbook
 
+
+
 ![03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/03_ImportData.PNG)
 
 #### In the Import Data dialogue check 'Only Create Connection' as data file is separate from the Dashboard file.
