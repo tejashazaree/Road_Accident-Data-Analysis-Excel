@@ -70,6 +70,11 @@
 
 </p>
 
+
+
+![02_ColumnsAdded.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/02_ColumnsAdded.PNG)
+
+
 > with the Cleaning and Processing our data is ready for Analysis.
 
 ### Data Analysis and Visualization
@@ -79,8 +84,6 @@ Add three worksheets for Analysis
 2. Monthly Trend - Monthly accident trends
 3. KPI - Key parameters
 
-
-![02_ColumnsAdded.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/02_ColumnsAdded.PNG)
 
 > #### Import the excel table into a new excel file>Get Data>From file>From excel workbook
 ![03_ImportData.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/03_ImportData.PNG)
