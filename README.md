@@ -95,6 +95,9 @@ Add four worksheets for Analysis
 
 ---
 
+#### Add a sheet rename it to 'KPI' and add all the required pivot tables and charts as per below image. Use 'From external data source' to create pivot tables. 
+
+![06_KPI-Sheet.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/06_KPI-Sheet.PNG)
 
 ---
 
