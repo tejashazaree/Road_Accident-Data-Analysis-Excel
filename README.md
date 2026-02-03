@@ -7,7 +7,6 @@
 
 # Road Accident Data - Analysis
 
- #### Analyzing road accident data in Excel can help you identify trends, hotspots, and potential areas for safety improvements. Here’s a detailed step-by-step guide to analyze such data:
 
 ---
 ## Data Import and Preparation</p>
