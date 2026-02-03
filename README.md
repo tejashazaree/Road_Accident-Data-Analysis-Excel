@@ -79,10 +79,11 @@
 
 ### Data Analysis and Visualization
 
-Add three worksheets for Analysis
-1. Road Type - for road cndition analysis
-2. Monthly Trend - Monthly accident trends
-3. KPI - Key parameters
+Add four worksheets for Analysis
+1. Road Type - for road condition analysis.
+2. Monthly Trend - Monthly accident trends.
+3. KPI - Key parameters.
+4. Data Analysis.
 
 
 #### Import the excel table into a new excel file>Get Data>From file>From excel workbook
