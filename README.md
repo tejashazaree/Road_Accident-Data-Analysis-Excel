@@ -101,6 +101,12 @@ Add four worksheets for Analysis
 
 ---
 
+#### Add a monthly trends pivot table in 'Monthly Trends' sheet as show in the image.
+
+![Monthly Trends](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/07_Mnthly-Trends.png)
+
+
+
 ### The Dashboard
 
 ![05_Dashboard.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/05_Dashboard.png)
