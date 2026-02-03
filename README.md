@@ -112,7 +112,11 @@ Add four worksheets for Analysis
 ![Road Type](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/08_Road-Type.png)
 
 ---
-
 ### The Dashboard
 
+#### We need to consolidate all the analysis on a single page usually a screen size. All the summary chart and controls are added. Filters based on year and area wise are useful.
+
 ![05_Dashboard.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/05_Dashboard.png)
+
+
+---
