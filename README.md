@@ -105,7 +105,13 @@ Add four worksheets for Analysis
 
 ![Monthly Trends](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/07_Mnthly-Trends.png)
 
+---
 
+#### Add pivot table for Road type analysis and charts.
+
+![Road Type](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/08_Road-Type.png)
+
+---
 
 ### The Dashboard
 
