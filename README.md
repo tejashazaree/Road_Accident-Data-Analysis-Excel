@@ -7,8 +7,6 @@
 
 # Road Accident Data - Analysis
 
-
----
 ## Data Import and Preparation</p>
 
 
