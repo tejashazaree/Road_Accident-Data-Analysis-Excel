@@ -126,7 +126,7 @@ Add four worksheets for Analysis
 ![05_Dashboard.PNG](https://github.com/tejashazaree/Road-Accident---Data-Analysis---Excel/blob/main/Images/05_Dashboard.png)
 
 ---
-# What did we find? Exploratory data analysis/Descriptive Analytics
+# Descriptive Analytics - Telling the story of what happened
 
 >Here’s a summary you of the Road Accident data:
 >- Total casualties: 417,883 across 2021–2022, with a 12% drop in >2022 compared to 2021.
@@ -140,7 +140,16 @@ Add four worksheets for Analysis
 
 ---
 
-# What future holds? Predictive Analysis
+# Diagnostic Analysis - Uncovering why accidents occur
+>- Target high‑risk zones: Focus safety interventions on single >carriageways in urban areas, where the majority of casualties >occur.
+>- Vehicle‑specific measures: Prioritize awareness and >enforcement for car drivers, since they account for ~80% of >casualties.
+>- Behavioral campaigns: Address congestion‑related minor >collisions through speed management, distraction reduction, and >safe‑driving education.
+>- Seasonal preparedness: Implement extra safety checks and >campaigns during October–November, when accident peaks are >observed.
+>- Infrastructure improvements: Enhance road design, signage, and >lighting on single carriageways to reduce exposure to high‑risk >conditions.
+
+---
+
+# Predictive Analysis - Forecasting tomorrow’s road risks today
 
 >- Casualty Trend Forecast:
 >With a 12% decline from 2021 to 2022, if similar improvements continue, total >casualties could drop to around 170K–175K annually by 2023–2024.
@@ -157,17 +166,7 @@ Add four worksheets for Analysis
 
 ---
 
-# What needs to be done? Diagnostic Analysis
->- Target high‑risk zones: Focus safety interventions on single >carriageways in urban areas, where the majority of casualties >occur.
->- Vehicle‑specific measures: Prioritize awareness and >enforcement for car drivers, since they account for ~80% of >casualties.
->- Behavioral campaigns: Address congestion‑related minor >collisions through speed management, distraction reduction, and >safe‑driving education.
->- Seasonal preparedness: Implement extra safety checks and >campaigns during October–November, when accident peaks are >observed.
->- Infrastructure improvements: Enhance road design, signage, and >lighting on single carriageways to reduce exposure to high‑risk >conditions.
-
-
----
-
-# What needs to be done? Prescriptive Analysis
+# Prescriptive Analysis - Guiding safer roads with smart actions
 
 >- Upgrade Roads: Improve single carriageways in urban areas with dividers, lane >markings, and better lighting.
 >- Enforce Behavior: Strengthen speed limit enforcement, seatbelt checks, and >distracted driving laws for car drivers.
